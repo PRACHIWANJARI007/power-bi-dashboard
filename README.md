@@ -41,5 +41,7 @@ Total Quantity: 1994
 Total Transactions: 797
 
 🥧 Brand-wise Sales Share: Pie chart visualizing % sales contribution by brands like Intel, Dell, Samsung, etc.
+
+
  5 Screenshots/ Demos
 Show what the dashboard looks like.-https://github.com/PRACHIWANJARI007/power-bi-dashboard/blob/main/Dashboard%20output.png
